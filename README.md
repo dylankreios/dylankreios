@@ -1,5 +1,4 @@
-### Hi, I'm Dylan Yang 
+### Hi, I'm [Dylan Yang](https://kreios.gitee.io)
 
-- 🍻 Junior at 🇨🇳 [HNU](https://www.hnu.edu.cn/), _BSc in Computer Science And Technology_
+- 🍻 Junior at [Hunan University](https://www.hnu.edu.cn/) P.R.C,
 - ⚡ Javascript / Python.
-- ✍️ [Home](https://kreios.gitee.io)
