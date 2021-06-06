@@ -1,4 +1,4 @@
-## Hi, I'm [Dylan Tao](https://touryung.github.io)👋
+## Hi, I'm [Evan Yang](https://touryung.github.io)👋
 
 - 🏠 A sophomore at [Hunan University](https://www.hnu.edu.cn/) P.R.C.
 - ⚡ Javascript / Python.
