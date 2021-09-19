@@ -43,13 +43,4 @@ class Touryung implements Boy, Student, Developer {
 <img height="160" width="47%" align="left" src="https://github-readme-stats.vercel.app/api?username=touryung&count_private=true&show_icons=true&theme=radical" />
 <img height="160" width="47%" align ="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=touryung&theme=radical" />
 <br><br><br><br><br><br><br><br>
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=touryung&theme=monokai" />
-
-# 📞 ❅ Contact ❅
-
-```text
-Email: kreios@qq.com
-Github: @touryung
-```
-
-[![☬](https://img.shields.io/badge/-@touryung-%23181717?style=flat-square&logo=github)](https://github.com/touryung)
+<img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=touryung&theme=monokai" />
