@@ -1,25 +1,15 @@
 # 🤸 ஐ Touryung ஐ <img src="https://visitor-badge.glitch.me/badge?page_id=touryung.touryung"/>
 
 <p>
-<img align="right" width="40%" src="rain0.gif" />
 
 ```typescript
 class Touryung implements Boy, Student, Developer {
   const email: string = "kreios@qq.com"
 
-  static let unique: any = Touryung()
-  private init() {}
-
   const mostInterestLangs: Language = [
     "TypeScript",
     "Node.js"
   ]
-  const recently: Recently = {
-    learning: [
-      "Algorithms",
-      "Compilation"
-    ]
-  };
 
   focusing(on: "FrontEnd").say()
   sayHi(): void {
@@ -29,8 +19,6 @@ class Touryung implements Boy, Student, Developer {
     `.announce()
   }
 }
-
-mail(to: Touryung.unique)
 ```
 
 </p>
