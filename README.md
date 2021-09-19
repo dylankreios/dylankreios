@@ -1,17 +1,14 @@
-# 🤸 ஐ Touryung ஐ <img src="https://visitor-badge.glitch.me/badge?page_id=touryung.touryung"/>
+## 🤸 ஐ Touryung ஐ <img src="https://visitor-badge.glitch.me/badge?page_id=touryung.touryung"/>
 
 <p>
 
 ```typescript
 class Touryung implements Boy, Student, Developer {
-  const email: string = "kreios@qq.com"
+  const email: string = "kreios@qq.com";
 
-  const mostInterestLangs: Language = [
-    "TypeScript",
-    "Node.js"
-  ]
+  const mostInterestLangs: Language = ["Vue.js" ,"TypeScript", "Node.js"];
 
-  focusing(on: "FrontEnd").say()
+  focusing(on: "FrontEnd").say();
   sayHi(): void {
     `
     👋 Hi there, I'm touryung.
@@ -23,7 +20,7 @@ class Touryung implements Boy, Student, Developer {
 
 </p>
 
-# 📕 ❀ Languages ❀
+## 📕 ❀ Languages ❀
 
 <p>
   <img src="https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white"/>
@@ -38,7 +35,7 @@ class Touryung implements Boy, Student, Developer {
   <img src="https://img.shields.io/badge/-TravisCI-9b2328?style=flat-square&logo=travis&logoColor=white"/>
 </p>
 
-# 📃 〄 Analysis 〄
+## 📃 〄 Analysis 〄
 
 <img height="160" align="left" src="https://github-readme-stats.vercel.app/api?username=touryung&count_private=true&show_icons=true&theme=radical" />
 <img height="160" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=touryung&theme=radical" />
