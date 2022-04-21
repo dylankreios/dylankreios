@@ -1,6 +1,6 @@
 ### 😉, 欢迎来到我的 GitHub 主页
 
-我叫南冬菌，是一名 2023 年应届毕业生（C++/JavaScript）。
+我叫易水舟，是一名 2023 年应届毕业生（C++/JavaScript）。
 
 我的博客地址：[个人博客](https://touryung.cnblogs.com)
 
