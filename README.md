@@ -13,6 +13,3 @@
   <img src="https://img.shields.io/badge/-Nodejs-74ad63?style=flat-square&logo=Node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Electron-2b2f3b?style=flat-square&logo=electron&logoColor=white"/>
 </p>
-
-<img height="160" align="left" src="https://github-readme-stats.vercel.app/api?username=touryung&count_private=true&show_icons=true&theme=radical" />
-<img height="160" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=touryung&theme=radical" />
